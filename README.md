@@ -1,16 +1,24 @@
-# Skin_cancer
+# CV Toolkit
 
-# Table of Contents
-
-
----
 # Introduction
 
+This is a series of notebooks to better understand CV tasks using the skin_cancer dataset.
+The intention is to have a toolkit to refer to for future CV projects.
 
+## 1. Computer Vision Tasks (torch)
+1. Basic Exploratory Data Analysis
+2. Transfer learning 
+3. Object similarity
+4. Unsupervised learning T-SNE
+
+## 2. Working with External tools
+1. Uploading to Hugging Face
+
+## 3. Implementations from scratch (Numpy)
+1. 
 
 ---
 # Data
-
 
 Data was obtained from kaggle and can be accessed [here](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000).
 
